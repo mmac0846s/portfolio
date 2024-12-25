@@ -5,3 +5,4 @@ git clone https://github.com/mmac0846s/portfolio
 cd portfolio
 npm install
 node .
+```
