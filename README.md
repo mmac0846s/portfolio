@@ -1,6 +1,6 @@
 # portfolio
-<p>my portfolio</p>
-demo: https://example.com
+my portfolio
+# demo: https://example.com
 ```sh
 git clone https://github.com/mmac0846s/portfolio
 cd portfolio
