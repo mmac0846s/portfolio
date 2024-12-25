@@ -1,6 +1,5 @@
-# portfolio
-# demo: https://example.com
-
+# simple portfolio
+# Install & run
 ```sh
 git clone https://github.com/mmac0846s/portfolio
 cd portfolio
