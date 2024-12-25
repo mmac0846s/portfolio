@@ -1,4 +1,4 @@
-# simple portfolio
+# my simple portfolio
 [Demo](https://portfolio-mmac0846s-projects.vercel.app/)
 # Install & run
 ```sh
