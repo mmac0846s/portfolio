@@ -48,11 +48,11 @@ function contact() {
     <h1 style="font-size: 20px; margin-bottom: 10px;" class="text">Contact information</h1>
     <div style="align-items: left; word-wrap: break-word;" id="proj">
     <img style="align-self: left; word-wrap: break-word;" width="45px" height="45px" src="./media/gmail.webp">
-    <h1 style="word-wrap: break-word; font-size: 15px; display: inline-block; vertical-align: top; margin-right: 10px"  class="text">gmail - mmac0846s@gmail.com</h1>
+    <h1 style="word-wrap: break-word; font-size: 17px; display: inline-block; vertical-align: top; margin-right: 10px"  class="text">gmail - mmac0846s@gmail.com</h1>
     </div>
     <div style="margin-top: 10px; align-items: left;" id="proj">
     <img style="align-self: left;" width="45px" height="45px" src="./media/disc.png">
-    <h1 style="word-wrap: break-word; font-size: 15px; display: inline-block; vertical-align: top; margin-right: 10px"  class="text">discord - @mat_6</h1>
+    <h1 style="word-wrap: break-word; font-size: 17px; display: inline-block; vertical-align: top; margin-right: 10px"  class="text">discord - @mat_6</h1>
     </div>`;
 }
 function extra() {
