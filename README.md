@@ -7,4 +7,4 @@ cd portfolio
 npm install
 node .
 ```
-Should load on ```localhost:3000```
+Should load on ```localhost:8080```
