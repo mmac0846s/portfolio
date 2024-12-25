@@ -24,7 +24,7 @@ function aboutme() {
     <p onclick="goback()" style="text-align: left;" class="text"><-- back</p>
     <h1 style="font-size: 20px; margin-bottom: 10px;" class="text">About Me</h1>
     <pre style="text-align: left; word-wrap: break-word;" class="text">
-    Hi im matt, I like frontend
+    Hi im matt
     I know these lanugages:
     - html
     - css
