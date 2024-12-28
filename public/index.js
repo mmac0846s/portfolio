@@ -40,6 +40,10 @@ function projects() {
     <div onclick="window.open('https://github.com/mmac0846s/portfolio') style="align-items: left;" id="proj">
     <img style="align-self: left;" width="45px" height="45px" src="./media/git.png">
     <h1 style="word-wrap: break-word; font-size: 17px; display: inline-block; vertical-align: top; margin-right: 10px"  class="text">portfolio - Dec. 25, 2024</h1>
+    </div>
+    <div onclick="window.open('https://github.com/mmac0846s/pikatab') style="align-items: left;" id="proj">
+    <img style="align-self: left;" width="45px" height="45px" src="./media/git.png">
+    <h1 style="word-wrap: break-word; font-size: 17px; display: inline-block; vertical-align: top; margin-right: 10px"  class="text">pikatab - Dec. 28, 2024</h1>
     </div>`;
 }
 function contact() {
